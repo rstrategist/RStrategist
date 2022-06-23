@@ -7,3 +7,5 @@ The repository contains my musings on sytematic strategies and market analysis.
 - 💬 Ask me about: Financial markets and strategies, ClimateTech, FinTech, Regenerative Agriculture 😃
 - 📫 How to reach me: rashid.rasul@me.com
 - ⚡ Fun fact: I like to hike and kayak 🚣🏽‍♀
+
+Highly recommend checking out the forked Courses repository 🎓
