@@ -14,7 +14,7 @@ The basic implementation of the strategy observes multiple technical indicators 
 
 #### Enhanced Implementation
 
-The enhanced implementation optimises strategy parameters from technical indicator input parameters, to position sizing and risk-management parameters.
+The enhanced implementation optimises strategy parameters, from technical and economic indicator input parameters, for position sizing and risk-management parameters.
 
 #### Results
 
